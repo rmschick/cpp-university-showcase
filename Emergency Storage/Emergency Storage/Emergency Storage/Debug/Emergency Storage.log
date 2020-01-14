@@ -1,0 +1,10 @@
+﻿  DisabilityHashTable.cpp
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(151): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\schic\onedrive\documents\unt\fall '19\data structures\emergency storage\emergency storage\emergency storage\disabilityhashtable.cpp(234): warning C4018: '<': signed/unsigned mismatch
+  Emergency Storage.vcxproj -> C:\Users\schic\OneDrive\Documents\UNT\Fall '19\Data Structures\Emergency Storage\Emergency Storage\Debug\Emergency Storage.exe
