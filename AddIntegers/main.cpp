@@ -1,4 +1,6 @@
-/* This program is used to find sum of large numbers by using vector of stacks */
+/* 	Ryan Schick
+	Year 3
+This program is used to find sum of large numbers by using vector of stacks */
 #include "addingLargeNumbers.cpp"
 	
 using namespace std;
